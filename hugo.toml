@@ -1,0 +1,4 @@
+baseURL = 'https://HoneyPotter-Gzy.github.io/'
+languageCode = 'en-us'
+title = 'HoneyPotter-Gzy'
+theme = 'ananke'
